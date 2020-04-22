@@ -1,0 +1,34 @@
+[
+  {
+    "ts": "2020-04-22T18:45:49.207Z",
+    "level": "error",
+    "error": {
+      "originalError": {
+        "name": "NotFound",
+        "message": "{\n  \"status\": 404,\n  \"statusText\": \"Not Found\",\n  \"message\": \"The resource could not be found.\",\n  \"details\": {\n    \"type\": \"Space\",\n    \"id\": \"Aquasar\"\n  },\n  \"request\": {\n    \"url\": \"Aquasar\",\n    \"headers\": {\n      \"Accept\": \"application/json, text/plain, */*\",\n      \"Content-Type\": \"application/vnd.contentful.management.v1+json\",\n      \"X-Contentful-User-Agent\": \"app contentful.cli/1.3.21; feature space-export; sdk contentful-management.js/5.25.1; platform node.js/v12.13.1; os Windows/10.0.18362;\",\n      \"Authorization\": \"Bearer ...0kRYo\",\n      \"user-agent\": \"node.js/v12.13.1\",\n      \"Accept-Encoding\": \"gzip\"\n    },\n    \"method\": \"get\"\n  },\n  \"requestId\": \"413e691e27e65600dbdc7e65c931b364\"\n}"
+      },
+      "data": {
+        "status": 404,
+        "statusText": "Not Found",
+        "message": "The resource could not be found.",
+        "details": {
+          "type": "Space",
+          "id": "Aquasar"
+        },
+        "request": {
+          "url": "Aquasar",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.cli/1.3.21; feature space-export; sdk contentful-management.js/5.25.1; platform node.js/v12.13.1; os Windows/10.0.18362;",
+            "Authorization": "Bearer ...0kRYo",
+            "user-agent": "node.js/v12.13.1",
+            "Accept-Encoding": "gzip"
+          },
+          "method": "get"
+        },
+        "requestId": "413e691e27e65600dbdc7e65c931b364"
+      }
+    }
+  }
+]

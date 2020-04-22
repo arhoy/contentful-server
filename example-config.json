@@ -1,0 +1,5 @@
+{
+  "spaceId": "YOUR SPACE ID",
+  "managementToken": "YOUR MANAGMENT TOKEN FROM CONTENTFUL LOGIN",
+  "contentFile": "./dataToImport.json"
+}
